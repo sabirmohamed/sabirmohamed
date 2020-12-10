@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<summary>📊 <b><i>GitHub Stats</i></b></summary>
-  <img src="github-readme-stats.sabirmohamed.vercel.app/api?username=sabirmohamed&show_icons=true&theme=gotham" alt="Sabir Mohamed GitHub Stats" />
-</details>
 
 <!--
 **sabirmohamed/sabirmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
