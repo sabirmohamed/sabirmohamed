@@ -1,8 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sabir Mohamed
 
-Sabir Mohamed is a Engineer at the core, 
-
-I work as Cloud Solution Architect / Developer, I love to listen to customer pain points and address that with tech
+I work as Cloud Solution Architect, I love to listen to customer pain points and address that with tech. 
 
 ---
 🧰 Tools and Buzzwords I work these days 
