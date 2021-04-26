@@ -6,9 +6,6 @@ I work as Cloud Solution Architect, I love to listen to customer pain points and
 <a href="https://www.linkedin.com/in/sabirm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@sabirm-blue?style=flat&logo=linkedin"></a>
 ![Twitter Follow](https://img.shields.io/twitter/follow/sabirmoe?style=social)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="sabirmohamed" /> </p>
-
-
 <!--
 **sabirmohamed/sabirmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
