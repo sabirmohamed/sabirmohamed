@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sabir Mohamed
 
-I work as Cloud Solution Architect, I love to listen to customer pain points and help them accelerate their Cloud Migration and Modernization Journey. I contribute a lot to Visolit CCoE / CoE Team as a Developer having my skills intact. 
+I work as Cloud Solution Architect, I love to listen to customer pain points and help them accelerate their Cloud Migration and Modernization Journey. I contribute a lot to Visolit CCoE / CoE Team as a Developer to having my dev skills intact. 
 
 ---
 <a href="https://www.linkedin.com/in/sabirm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@sabirm-blue?style=flat&logo=linkedin"></a>
