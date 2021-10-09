@@ -9,7 +9,7 @@ I work as Cloud Engineer, I love to listen to customer pain points and help them
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sabir's GitHub Stats" src="https://github-readme-stats-sabirmohamed.vercel.app/api?username=sabirmohamed&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sabir's GitHub Stats" src="https://github-readme-stats-sabirmohamed.vercel.app/api?username=sabirmohamed&&count_private=true&show_icons=true&hide_border=true" />
 
 </details>
 
