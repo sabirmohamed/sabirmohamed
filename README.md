@@ -7,11 +7,9 @@ I work as Cloud Engineer, I love to listen to customer pain points and help them
 ![Twitter Follow](https://img.shields.io/twitter/follow/sabirmoe?style=social)
 
 
-https://github-readme-stats-sabirmohamed.vercel.app/
-
 ### Github Stats
 
-[![Michael Levan GitHub Stats](https://github-readme-stats-sabirmohamed.vercel.app/api?username=sabirmohamed&show_icons=true&count_private=true)](https://github.com/sabirmohamed)
+[![Sabir GitHub Stats](https://github-readme-stats-sabirmohamed.vercel.app/api?username=sabirmohamed&show_icons=true&count_private=true)](https://github.com/sabirmohamed)
 
 
 <!--
